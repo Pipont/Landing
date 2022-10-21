@@ -82,7 +82,7 @@ div {
 }
 
 body {
-  background-color: #44a1a0;
+  background-color: #7DBEBD;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -185,7 +185,7 @@ p {
   align-items: center;
   background: linear-gradient(
     0deg,
-    rgba(68, 161, 160, 1) 0%,
+    #7DBEBD 0%,
     rgba(255, 255, 255, 1) 25%
   );
 }
