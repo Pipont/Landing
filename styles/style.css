@@ -424,10 +424,18 @@ footer {
     align-items: center;
     align-self: center;
     height: 50%;
-    position:relative;
-
+    position: relative;
   }
-  .portada{
+
+  .plans_s2 img {
+    height: 150px;
+  }
+
+  .titulo {
+    font-size: 10vw;
+  }
+
+  .portada {
     height: 500px;
   }
   .p_titulo {
@@ -457,7 +465,7 @@ footer {
     width: 70vw;
   }
 
-  .plans_s2{
+  .plans_s2 {
     width: 90vw;
   }
 
