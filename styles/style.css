@@ -338,7 +338,8 @@ p {
   display: block;
 }
 .app_s3 img{
-  margin: 18px;
+  margin: 8px;
+  width: 250px;
 }
 .app_s3 h2{
   margin-top: 20vh;
